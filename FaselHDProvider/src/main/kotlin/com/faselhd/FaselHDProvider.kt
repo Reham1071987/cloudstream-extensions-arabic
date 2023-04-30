@@ -14,6 +14,7 @@ class FaselHD : MainAPI() {
     override var lang = "ar"
     override var mainUrl = "https://faselhd.io"
     private  val alternativeUrl = "https://www.faselhd.club"
+    private  val alternativeUrl = "https://www.faselhd.ac"
     override var name = "FaselHD"
     override val usesWebView = false
     override val hasMainPage = true
